@@ -1,4 +1,6 @@
-openai/configs/config.py
+my_openai/configs/config.py
+my_openai/data/*
+
 *.py[cod]
 
 # C extensions
